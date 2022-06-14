@@ -31,3 +31,12 @@
   font-size: 17px;
   margin: 0px 0px 10px 0px;
 }
+
+.by-ahmad {
+  padding: 10px 20px;
+  background-color: aqua;
+  margin: 10px 0px;
+}
+.by-ahmad > h1{
+  color: red;
+}
